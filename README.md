@@ -8,7 +8,7 @@ linkedin: [linkedin.com/in/victor-gherardi/](https://www.linkedin.com/in/victor-
 - BSc in Computer Science - University of Milan-Bicocca (in progress)
 
 #### 👨‍💻 Experience
-- Software Engineer intern at SORINT.lab (Jun 2023 - Sep 2023)
+- Software Engineer Intern at SORINT.lab (Jun 2023 - Sep 2023)
 
 <!--
 #### 💻 Projects
